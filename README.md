@@ -9,7 +9,7 @@ this is  a space to learn github.
 
 >《唯一》<br>
         ——王力宏
-我的天空多么的清晰<br>
+<br>我的天空多么的清晰<br>
 透明的承诺是过去的空气<br>
 牵着我的手是你<br>
 但你的笑容 却看不清<br>
@@ -17,7 +17,7 @@ this is  a space to learn github.
 从前的愿望 已全部被抛弃<br>
 最近我无法呼吸<br>
 连自己的影子<br>
-都想逃避<br
+都想逃避<br>
 BABY 你就是我的唯一<br>
 两个世界都变形<br>
 回去谈何容易<br>
